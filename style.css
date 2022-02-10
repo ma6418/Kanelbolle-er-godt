@@ -3,6 +3,10 @@
     font-family: 'Source Code Pro', monospace;
 }
 
+body{
+    background-color: black;
+}
+
 .text {
     text-align: center;
     padding-top: 200px;
