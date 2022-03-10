@@ -37,8 +37,6 @@ body{
 }
 
 /* Add a color to the active/current link */
-.topnav a.active {
-  font-size: large;
-  background-color:rgb(18, 18, 18);
-  color: rgb(255, 255, 255);
+/*.topnav a.active {
+
 }
