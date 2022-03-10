@@ -32,12 +32,12 @@ body{
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: rgb(90, 204, 99);
+  background-color: rgb(255, 255, 255);
   color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #ffffff;
+  background-color: #e4e4e4;
   color: black;
 }
