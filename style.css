@@ -7,6 +7,14 @@ body{
     background-color:rgb(18, 18, 18);
 }
 
+.text {
+    text-align: center;
+    padding-top: 200px;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
