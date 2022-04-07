@@ -15,6 +15,10 @@ body{
     color: white;
 }
 
+.topnav {
+  padding-top: 50px;
+}
+
 .subtitle {
   text-align: center;
   padding-top: none;
