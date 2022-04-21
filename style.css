@@ -77,5 +77,13 @@ body{
 }
 
 .bilde {
-  
+  float:left;
+  padding-left: 10%;
+}
+
+.bildetekst {
+  float:right;
+  padding-right: 10%;
+  font-weight: bold;
+  font-size: 20px;
 }
