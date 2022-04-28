@@ -67,6 +67,7 @@ body{
   color: rgb(255, 166, 0);
 }
 .bergenimage {
+  margin-top: 20%;
   height: 300px;
   width: auto;
 }
