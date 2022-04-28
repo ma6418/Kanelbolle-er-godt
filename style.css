@@ -74,19 +74,19 @@ body{
 }
 
 a:link {
-  color: green;
+  color: rgb(255, 242, 0);
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: pink;
+  color: rgb(255, 129, 150);
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: red;
+  color: rgb(255, 251, 145);
   background-color: transparent;
   text-decoration: underline;
 }
