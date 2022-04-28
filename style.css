@@ -62,6 +62,7 @@ body{
 }
 
 .kilde {
+  text-align:center
   font-weight: bold;
   font-size: 20px;
   color: rgb(255, 166, 0);
