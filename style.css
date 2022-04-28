@@ -96,3 +96,8 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+
+.tekst {
+  text-align: center;
+  top: 100px;
+}
