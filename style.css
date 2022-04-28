@@ -62,20 +62,7 @@ body{
 }
 
 .kilde {
-  text-align: center;
   font-weight: bold;
   font-size: 20px;
   color: rgb(255, 166, 0);
-}
-
-.bilde {
-  float:left;
-  padding-left: 10%;
-}
-
-.bildetekst {
-  float:right;
-  margin-top: 20%;
-  font-weight: bold;
-  font-size: 20px;
 }
