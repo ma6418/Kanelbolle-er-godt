@@ -68,6 +68,7 @@ body{
   color: rgb(255, 166, 0);
 }
 .bergenimage {
+  float: left;
   margin-top: 20%;
   height: 400px;
   width: auto;
@@ -99,7 +100,7 @@ a:active {
 
 .tekst {
   text-align: center;
-  top: -100px;
+  float: right;
   color: #ffffff;
   font-weight: bold;
   font-size: 20px;
