@@ -98,6 +98,11 @@ a:active {
   text-decoration: underline;
 }
 
+@keyframes example {
+  0%   {color: rgb(18, 18, 18);}
+  100% {color: #ffffff;}
+}
+
 .kanelbollebleoppfunnetibergen {
   text-align: center;
   margin-top: 32%;
@@ -106,4 +111,6 @@ a:active {
   color: #ffffff;
   font-weight: bold;
   font-size: 25px;
+  animation-name: example;
+  animation-duration: 4s;
 }
