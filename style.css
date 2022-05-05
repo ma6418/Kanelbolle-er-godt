@@ -114,3 +114,7 @@ a:active {
   animation-name: example;
   animation-duration: 4s;
 }
+
+html {
+  scroll-behavior: smooth;
+}
