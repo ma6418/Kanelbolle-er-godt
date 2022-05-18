@@ -81,6 +81,13 @@ body{
   width: auto;
 }
 
+.ibergenbilde {
+  padding-left: 0px;
+  margin-top: 200px;
+  height: 400px;
+  width: auto;
+}
+
 a:link {
   color: rgb(255, 129, 150);
   background-color: transparent;
@@ -116,6 +123,16 @@ a:active {
 }
 
 .kanelbollensdag {
+  text-align: center;
+  margin-top: 390px;
+  float: left;
+  margin-right: 150px;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.ibergen {
   text-align: center;
   margin-top: 390px;
   float: left;
