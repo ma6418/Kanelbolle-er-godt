@@ -157,3 +157,8 @@ html {
   width: 100%;
   flex-direction: column;
 }
+
+.fivestar{
+  width: 50px;
+  height: auto;
+}
