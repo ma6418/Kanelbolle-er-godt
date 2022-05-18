@@ -161,5 +161,6 @@ html {
 .fivestar{
   width: 150px;
   height: auto;
+  display: flex;
   align-items: center;
 }
