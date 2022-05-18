@@ -82,7 +82,7 @@ body{
 }
 
 .ibergenbilde {
-  padding-left: 0px;
+  padding-right: 0px;
   margin-top: 200px;
   height: 400px;
   width: auto;
@@ -135,8 +135,8 @@ a:active {
 .ibergen {
   text-align: center;
   margin-top: 390px;
-  float: left;
-  margin-right: 150px;
+  float: right;
+  margin-left: 150px;
   color: #ffffff;
   font-weight: bold;
   font-size: 25px;
