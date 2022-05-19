@@ -173,14 +173,11 @@ html {
   color: rgb(255, 217, 217);
 }
 
-.kanelbolleoppskrift{
-  font-size:xx-large;
-  margin-left: 30%;
-}
-
-.kanelbolleoppskriftbox {
+.kanelbolleoppskrift {
   width: 300px;
   border: 15px solid green;
   padding: 50px;
-  margin: 20px;
+  margin-left: 35%;
+  font-size:xx-large;
+  margin-top: 100px;
 }
