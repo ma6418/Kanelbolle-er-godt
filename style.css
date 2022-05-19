@@ -170,5 +170,6 @@ html {
 }
 
 .active:hover{
-  color: rgb(236, 89, 114);
+  color: rgb(255, 255, 255);
+  background-color: rgb(234, 58, 88);
 }
