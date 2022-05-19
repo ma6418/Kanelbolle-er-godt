@@ -172,3 +172,9 @@ html {
 .active:hover{
   color: rgb(255, 217, 217);
 }
+
+.kanelbolleoppskrift{
+  font-size: large;
+  margin-top: 50px;
+  margin-left: 50px;
+}
