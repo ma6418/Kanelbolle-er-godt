@@ -168,3 +168,7 @@ html {
 .active {
   color: floralwhite;
 }
+
+.active:hover{
+  color: pink;
+}
